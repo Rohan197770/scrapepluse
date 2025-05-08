@@ -1,0 +1,4 @@
+/node_modules
+.env
+html_dumps
+.vscode
